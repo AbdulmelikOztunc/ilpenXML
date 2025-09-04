@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Urunler>
+<Urun>
+<UrunKartiID>5295</UrunKartiID>
+<UrunAdi>16 GB Metal Renkli USB Bellek</UrunAdi>
+<UrunGrupKodu>7244-16GB</UrunGrupKodu>
+<OnYazi>
+<![CDATA[ • Metal renkli USB Bellek<br /> • 16 GB<br /> • 5,5 x 1,8 cm<br /> • Lazer ve tampon baskıya uygundur ]]>
+</OnYazi>
+<Aciklama>
+<![CDATA[ • Metal renkli USB Bellek<br /> • 16 GB<br /> • 5,5 x 1,8 cm<br /> • Lazer ve tampon baskıya uygundur ]]>
+</Aciklama>
+<MarkaID>0</MarkaID>
+<KategoriID>75</KategoriID>
+<KategoriIDAna>2</KategoriIDAna>
+<KategoriIDAlt>75</KategoriIDAlt>
+<KategoriMain>USB Bellekler</KategoriMain>
+<KategoriSub>16 GB USB Bellekler</KategoriSub>
+<SatisBirimi>ADET</SatisBirimi>
+<UrunUrl>https://b2b.ilpen.com.tr/urun/16-gb-metal-renkli-usb-bellek_5295</UrunUrl>
+<ResimUrl>https://b2b.ilpen.com.tr/uploads/product-visual/v_7244-16gb_16-gb-metal-renkli-usb-bellek_FczAl.jpg</ResimUrl>
+<AlisFiyati>189,00</AlisFiyati>
+<SatisFiyati>189,00</SatisFiyati>
+<IndirimliFiyat>0</IndirimliFiyat>
+<KDVDahil>FALSE</KDVDahil>
+<KdvOrani>20</KdvOrani>
+<ParaBirimi>TL</ParaBirimi>
+<Barkod>0</Barkod>
+<Desi>0</Desi>
+<TumVaryantToplamStokAdedi>1064</TumVaryantToplamStokAdedi>
+<TedarikciKodu>ILPEN</TedarikciKodu>
+<UrunSecenek>
+<Secenek>
+<VaryasyonID>1911</VaryasyonID>
+<UrunGrupKodu>7244-16GB</UrunGrupKodu>
+<StokKodu>7244-16GB LACİVERT</StokKodu>
+<StokAdedi>608</StokAdedi>
+<EkSecenekOzellik>
+<Ozellik Tanim="Renk" Deger="Lacivert">Lacivert</Ozellik>
+</EkSecenekOzellik>
+<VaryasyonResim/>
+</Secenek>
+<Secenek>
+<VaryasyonID>1912</VaryasyonID>
+<UrunGrupKodu>7244-16GB</UrunGrupKodu>
+<StokKodu>7244-16GB KIRMIZI</StokKodu>
+<StokAdedi>390</StokAdedi>
+<EkSecenekOzellik>
+<Ozellik Tanim="Renk" Deger="Kırmızı">Kırmızı</Ozellik>
+</EkSecenekOzellik>
+<VaryasyonResim/>
+</Secenek>
+<Secenek>
+<VaryasyonID>1910</VaryasyonID>
+<UrunGrupKodu>7244-16GB</UrunGrupKodu>
+<StokKodu>7244-16GB BEYAZ</StokKodu>
+<StokAdedi>66</StokAdedi>
+<EkSecenekOzellik>
+<Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
+</EkSecenekOzellik>
+<VaryasyonResim/>
+</Secenek>
+</UrunSecenek>
+</Urun>
+</Urunler>
+</Root>
