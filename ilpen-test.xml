@@ -2,7 +2,7 @@
 <Root>
 <Urunler>
 <Urun>
-<UrunKartiID>123456789</UrunKartiID>
+<UrunKartiID>1000001</UrunKartiID>
 <UrunAdi>16 GB Metal Renkli USB Bellek Kurcalandı</UrunAdi>
 <UrunGrupKodu>7244-16GB</UrunGrupKodu>
 <OnYazi>
@@ -65,12 +65,3 @@
 </Urun>
 </Urunler>
 </Root>
-
-
-
-
-
-
-
-
-
