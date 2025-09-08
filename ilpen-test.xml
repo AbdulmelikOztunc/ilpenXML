@@ -28,14 +28,14 @@
 <ParaBirimi>TL</ParaBirimi>
 <Barkod>0</Barkod>
 <Desi>0</Desi>
-<TumVaryantToplamStokAdedi>1064</TumVaryantToplamStokAdedi>
+<TumVaryantToplamStokAdedi>1063</TumVaryantToplamStokAdedi>
 <TedarikciKodu>ILPEN</TedarikciKodu>
 <UrunSecenek>
 <Secenek>
 <VaryasyonID>1911</VaryasyonID>
 <UrunGrupKodu>7244-16GB</UrunGrupKodu>
 <StokKodu>7244-16GB LACİVERT</StokKodu>
-<StokAdedi>608</StokAdedi>
+<StokAdedi>607</StokAdedi>
 <EkSecenekOzellik>
 <Ozellik Tanim="Renk" Deger="Lacivert">Lacivert</Ozellik>
 </EkSecenekOzellik>
@@ -65,4 +65,5 @@
 </Urun>
 </Urunler>
 </Root>
+
 
