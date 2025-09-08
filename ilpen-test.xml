@@ -63,50 +63,9 @@
 </Secenek>
 </UrunSecenek>
 </Urun>
-  <Urun>
-<UrunKartiID>26</UrunKartiID>
-<UrunAdi>8 GB OTG Özellikli Kartvizit USB Bellek</UrunAdi>
-<UrunGrupKodu>7238-8GB</UrunGrupKodu>
-<OnYazi>
-<![CDATA[ • OTG özellikli kart şeklinde USB bellek<br /> • Type c girişli<br /> • 8 GB<br /> • 8,3 x 5,2 cm<br /> • Tampon, UV baskıya uygundur. ]]>
-</OnYazi>
-<Aciklama>
-<![CDATA[ • OTG özellikli kart şeklinde USB bellek<br /> • Type c girişli<br /> • 8 GB<br /> • 8,3 x 5,2 cm<br /> • Tampon, UV baskıya uygundur. ]]>
-</Aciklama>
-<MarkaID>0</MarkaID>
-<KategoriID>74</KategoriID>
-<KategoriIDAna>2</KategoriIDAna>
-<KategoriIDAlt>74</KategoriIDAlt>
-<KategoriMain>USB Bellekler</KategoriMain>
-<KategoriSub>8 GB USB Bellekler</KategoriSub>
-<SatisBirimi>ADET</SatisBirimi>
-<UrunUrl>https://b2b.ilpen.com.tr/urun/8-gb-otg-ozellikli-kartvizit-usb-bellek_26</UrunUrl>
-<ResimUrl>https://b2b.ilpen.com.tr/uploads/product-visual/v_7238_8-gb-otg-ozellikli-kartvizit-usb-bellek.jpg</ResimUrl>
-<AlisFiyati>238,00</AlisFiyati>
-<SatisFiyati>238,00</SatisFiyati>
-<IndirimliFiyat>0</IndirimliFiyat>
-<KDVDahil>FALSE</KDVDahil>
-<KdvOrani>20</KdvOrani>
-<ParaBirimi>TL</ParaBirimi>
-<Barkod>0</Barkod>
-<Desi>0</Desi>
-<TumVaryantToplamStokAdedi>0</TumVaryantToplamStokAdedi>
-<TedarikciKodu>ILPEN</TedarikciKodu>
-<UrunSecenek>
-<Secenek>
-<VaryasyonID>1919</VaryasyonID>
-<UrunGrupKodu>7238-8GB</UrunGrupKodu>
-<StokKodu>7238-8GB BEYAZ</StokKodu>
-<StokAdedi>0</StokAdedi>
-<EkSecenekOzellik>
-<Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
-</EkSecenekOzellik>
-<VaryasyonResim/>
-</Secenek>
-</UrunSecenek>
-</Urun>
 </Urunler>
 </Root>
+
 
 
 
