@@ -28,7 +28,7 @@
 <ParaBirimi>TL</ParaBirimi>
 <Barkod>0</Barkod>
 <Desi>0</Desi>
-<TumVaryantToplamStokAdedi>1063</TumVaryantToplamStokAdedi>
+<TumVaryantToplamStokAdedi>1058</TumVaryantToplamStokAdedi>
 <TedarikciKodu>ILPEN</TedarikciKodu>
 <UrunSecenek>
 <Secenek>
@@ -55,7 +55,7 @@
 <VaryasyonID>1910</VaryasyonID>
 <UrunGrupKodu>7244-16GB</UrunGrupKodu>
 <StokKodu>7244-16GB BEYAZ</StokKodu>
-<StokAdedi>66</StokAdedi>
+<StokAdedi>61</StokAdedi>
 <EkSecenekOzellik>
 <Ozellik Tanim="Renk" Deger="Beyaz">Beyaz</Ozellik>
 </EkSecenekOzellik>
@@ -65,6 +65,7 @@
 </Urun>
 </Urunler>
 </Root>
+
 
 
 
