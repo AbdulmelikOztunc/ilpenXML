@@ -20,8 +20,8 @@
 <SatisBirimi>ADET</SatisBirimi>
 <UrunUrl>https://b2b.ilpen.com.tr/urun/16-gb-metal-renkli-usb-bellek_5295</UrunUrl>
 <ResimUrl>https://b2b.ilpen.com.tr/uploads/product-visual/v_7244-16gb_16-gb-metal-renkli-usb-bellek_FczAl.jpg</ResimUrl>
-<AlisFiyati>189,00</AlisFiyati>
-<SatisFiyati>189,00</SatisFiyati>
+<AlisFiyati>100,00</AlisFiyati>
+<SatisFiyati>100,00</SatisFiyati>
 <IndirimliFiyat>0</IndirimliFiyat>
 <KDVDahil>FALSE</KDVDahil>
 <KdvOrani>20</KdvOrani>
@@ -65,5 +65,6 @@
 </Urun>
 </Urunler>
 </Root>
+
 
 
