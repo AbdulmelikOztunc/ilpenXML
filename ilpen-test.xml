@@ -2,7 +2,7 @@
 <Root>
 <Urunler>
 <Urun>
-<UrunKartiID>1000001</UrunKartiID>
+<UrunKartiID>1000002</UrunKartiID>
 <UrunAdi>16 GB Metal Renkli USB Bellek ad güncel mi</UrunAdi>
 <UrunGrupKodu>7244-16GB</UrunGrupKodu>
 <OnYazi>
@@ -65,6 +65,7 @@
 </Urun>
 </Urunler>
 </Root>
+
 
 
 
